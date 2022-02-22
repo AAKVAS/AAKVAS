@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAKVAS
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php, laravel
+- 🌱 I’m currently learning PHP, Laravel
 - 📫 How to reach me https://github.com/AAKVAS/
 
 <!---
