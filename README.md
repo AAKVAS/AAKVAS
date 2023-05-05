@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AAKVAS
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, Qt, linux, java spring
+- 👋 Hi, I’m @AAKVAS. My real name is Alexey Plotnikov. I am a beginner application developer
+- 🌱 I’m currently learning C++, Qt, Java Spring, C#
 - 📫 How to reach me https://github.com/AAKVAS/
 
 <!---
