@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&pause=1000&color=1CC007&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+AAKVAS)](https://git.io/typing-svg)
 ## Обо мне
 Меня зовут Алексей Плотников. Я начал изучать программирование в 2020 году. За это время я ознакомился с C++, Oracle DB, Java, Spring, C#, WPF.
 На данный момент работаю в компании "Макси инновации" и занимаюсь разработкой ERP-системы с применением C++ builder. В мои обязанности также входит написание и оптимизация процедур в СУБД Oracle.
