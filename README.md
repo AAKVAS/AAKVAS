@@ -1,11 +1,10 @@
 ## Обо мне
-Меня зовут Алексей Плотников. Я начал изучать программирование в 2020 году. За это время я ознакомился с C++, Oracle DB, Java, Spring, C#, WPF.
-На данный момент работаю в компании "Макси инновации" и занимаюсь разработкой ERP-системы с применением C++ builder. В мои обязанности также входит написание и оптимизация процедур в СУБД Oracle.
-В настоящее время интересуюсь android-разработкой и активно изучаю Kotlin, Jetpack Compose, Retrofit, Dagger.
+Меня зовут Алексей Плотников. Я начал изучать программирование в 2020 году. За это время я ознакомился с C++, Oracle DB, Java, Kotlin, C#, WPF.
+На данный момент работаю в компании "Макси инновации" и занимаюсь разработкой базы данных в СУБД Oracle и мобильной торговой системы для терминалов сбора данных на языке Java.
+Активно интересуюсь современной Android-разработкой, и знаком с такими технологиями, как Kotlin, Jetpack Compose, Retrofit, Dagger, Hilt, Room.
 
 ## Используемые технологии
 ### Языки программирования
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
