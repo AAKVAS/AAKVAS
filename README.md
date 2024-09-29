@@ -1,7 +1,7 @@
 Меня зовут Плотников Алексей. Я Android-разработчик.
 
 ```kotlin
-var stack = listOf(
+val stack = listOf(
     android,
     kotlin,
     java,
