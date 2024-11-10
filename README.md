@@ -1,6 +1,4 @@
-My name is Alexey Plotnikov. I'm kotlin developer.
-
-### About me 
+## About me 
 ```kotlin
 val stack = listOf(
     android,
