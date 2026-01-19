@@ -10,10 +10,12 @@ val stack = listOf(
     dagger,
     mvvm,
     mvp,
+    mvi,
     java,
     rxJava,
     oracleDB,
-    KMP
+    KMP,
+    decompose
 )
 ```
 
